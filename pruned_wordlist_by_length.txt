@@ -1072,7 +1072,6 @@ carl
 carp
 cars
 cart
-casa
 case
 cash
 cask
@@ -2915,7 +2914,6 @@ rant
 rape
 raps
 rapt
-rara
 rare
 rase
 rash
@@ -4811,7 +4809,6 @@ carry
 carte
 carts
 carve
-casas
 cased
 cases
 casks
@@ -4849,7 +4846,6 @@ celts
 cense
 cento
 cents
-cered
 ceres
 ceria
 chads
@@ -5154,7 +5150,6 @@ cozen
 cozes
 cozey
 cozie
-craal
 crabs
 crack
 craft
@@ -7565,7 +7560,6 @@ menus
 meows
 merci
 mercy
-merer
 meres
 merge
 merit
@@ -12340,7 +12334,6 @@ carver
 carves
 casaba
 casava
-casbah
 casein
 cashed
 casher
@@ -12937,7 +12930,6 @@ cozeys
 cozier
 cozies
 cozily
-craals
 crabby
 cracks
 cracky
@@ -13081,7 +13073,6 @@ cupped
 cupper
 cupric
 curacy
-curara
 curare
 curari
 curate
