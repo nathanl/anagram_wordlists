@@ -12969,7 +12969,6 @@ crystallography
 crystals
 crèche
 crèches
-cs
 cub
 cubbyhole
 cubbyholes
@@ -13318,7 +13317,6 @@ czar
 czarina
 czarinas
 czars
-dB
 dab
 dabbed
 dabbing
@@ -17906,7 +17904,6 @@ elusive
 elusively
 elusiveness
 elves
-em
 emaciate
 emaciated
 emaciates
@@ -18916,7 +18913,6 @@ eruptions
 erupts
 erythrocyte
 erythrocytes
-es
 escalate
 escalated
 escalates
@@ -19213,7 +19209,6 @@ ewe
 ewer
 ewers
 ewes
-ex
 exacerbate
 exacerbated
 exacerbates
@@ -19922,7 +19917,6 @@ eyewitness
 eyewitnesses
 eying
 eyrie
-fa
 fable
 fabled
 fables
@@ -24543,7 +24537,6 @@ grunting
 grunts
 gryphon
 gryphons
-gs
 guacamole
 guano
 guarantee
@@ -25408,7 +25401,6 @@ haziness
 hazing
 hazings
 hazy
-he
 head
 headache
 headaches
@@ -30271,7 +30263,6 @@ juxtaposing
 juxtaposition
 juxtapositions
 kHz
-kW
 kabob
 kabobs
 kaboom
@@ -30303,7 +30294,6 @@ kayaking
 kayaks
 kazoo
 kazoos
-kc
 kebab
 kebabs
 kebob
@@ -30701,13 +30691,11 @@ kronor
 krypton
 króna
 krónur
-ks
 kudos
 kudzu
 kudzus
 kumquat
 kumquats
-la
 lab
 label
 labeled
@@ -32439,7 +32427,6 @@ loyalties
 loyalty
 lozenge
 lozenges
-ls
 luau
 luaus
 lubber
@@ -32631,7 +32618,6 @@ lyrically
 lyricist
 lyricists
 lyrics
-ma
 macabre
 macadam
 macaroni
@@ -34074,7 +34060,6 @@ mewls
 mews
 mezzanine
 mezzanines
-mi
 miaow
 miaowed
 miaowing
@@ -35493,8 +35478,6 @@ mowing
 mown
 mows
 mozzarella
-ms
-mu
 much
 mucilage
 muck
@@ -36855,7 +36838,6 @@ noxious
 nozzle
 nozzles
 nth
-nu
 nuance
 nuanced
 nuances
@@ -38526,8 +38508,6 @@ oxymorons
 oyster
 oysters
 ozone
-pH
-pa
 pace
 paced
 pacemaker
@@ -44398,7 +44378,6 @@ razz
 razzed
 razzes
 razzing
-re
 reach
 reachable
 reached
@@ -47418,7 +47397,6 @@ royally
 royals
 royalties
 royalty
-rs
 rub
 rubbed
 rubber
@@ -49431,7 +49409,6 @@ sexual
 sexuality
 sexually
 sexy
-sh
 shabbier
 shabbiest
 shabbily
@@ -56507,7 +56484,6 @@ thymuses
 thyroid
 thyroids
 thyself
-ti
 tiara
 tiaras
 tibia
@@ -58031,7 +58007,6 @@ tryst
 trysted
 trysting
 trysts
-ts
 tsar
 tsarina
 tsarinas
